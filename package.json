@@ -29,7 +29,7 @@
     "express-session": "^1.17.1",
     "mysql2": "^2.1.0",
     "nodemon": "^2.0.4",
-    "sequelize": "^6.21.3"
+    "sequelize": "^5.21.13"
   },
   "devDependencies": {
     "@creativebulma/bulma-divider": "^1.1.0",
